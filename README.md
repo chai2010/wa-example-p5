@@ -4,5 +4,5 @@
 
 进入工程目录执行 `wa run`
 
-https://p5js.org/get-started/
+![](wa-example-p5-01.png)
 
